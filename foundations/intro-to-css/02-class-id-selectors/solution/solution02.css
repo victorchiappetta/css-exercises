@@ -1,0 +1,18 @@
+.odd{
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title{
+    color: blue;
+    font-size: 36px;
+}
+
+#title-2{
+    font-weight: bolder;
+    background-color: lightgreen;
+    font-size: 24px;
+}
+.odd#title-3{
+    font-size: larger;
+}
